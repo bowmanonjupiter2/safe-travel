@@ -1,0 +1,119 @@
+ [
+  {
+  "id":1819729,
+  "name":"Hong Kong",
+  "country":"HK",
+  "coord":{
+  "lon":114.157692,
+  "lat":22.285521
+  }
+  },
+  {
+  "id":2643743,
+  "name":"London",
+  "country":"GB",
+  "coord":{
+  "lon":-0.12574,
+  "lat":51.50853
+  }
+  },
+  {
+  "id":5128638,
+  "name":"New York",
+  "country":"US",
+  "coord":{
+  "lon":-75.499901,
+  "lat":43.000351
+  }
+  },
+  {
+  "id":1809858,
+  "name":"Guangzhou",
+  "country":"CN",
+  "coord":{
+  "lon":113.25,
+  "lat":23.116671
+  }
+  },
+  {
+  "id":1811103,
+  "name":"Foshan",
+  "country":"CN",
+  "coord":{
+  "lon":113.131477,
+  "lat":23.02677
+  }
+  },
+  {
+  "id": 1814906,
+  "name": "Chongqing",
+  "country": "CN",
+  "coord": {
+  "lon": 106.55278,
+  "lat": 29.56278
+  }
+  },
+  {
+  "id": 1796236,
+  "name": "Shanghai",
+  "country": "CN",
+  "coord": {
+  "lon": 121.458061,
+  "lat": 31.222219
+  }
+  },
+  {
+  "id": 1273294,
+  "name": "Delhi",
+  "country": "IN",
+  "coord": {
+  "lon": 77.216667,
+  "lat": 28.666668
+  }
+  },
+  {
+  "id": 1816670,
+  "name": "Beijing",
+  "country": "CN",
+  "coord": {
+  "lon": 116.397232,
+  "lat": 39.907501
+  }
+  },
+  {
+  "id": 1802940,
+  "name": "Puning",
+  "country": "CN",
+  "coord": {
+  "lon": 116.168694,
+  "lat": 23.31072
+  }
+  },
+  {
+  "id": 1784642,
+  "name": "Zhenjiang",
+  "country": "CN",
+  "coord": {
+  "lon": 119.434174,
+  "lat": 32.209171
+  }
+  },
+  {
+  "id": 7033029,
+  "name": "Hongyang",
+  "country": "CN",
+  "coord": {
+  "lon": 116.209068,
+  "lat": 23.43499
+  }
+  },
+  {
+  "id": 4887398,
+  "name": "Chicago",
+  "country": "US",
+  "coord": {
+  "lon": -87.650047,
+  "lat": 41.850029
+  }
+  }
+  ]

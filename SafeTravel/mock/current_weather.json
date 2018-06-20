@@ -1,0 +1,42 @@
+{
+  "main" : {
+    "humidity" : 55,
+    "temp_min" : 292.15,
+    "temp_max" : 292.15,
+    "temp" : 292.15,
+    "pressure" : 1017
+  },
+  "name" : "Guangzhou",
+  "id" : 1809858,
+  "coord" : {
+    "lon" : 113.25,
+    "lat" : 23.12
+  },
+  "weather" : [
+    {
+      "main" : "Clouds",
+      "icon" : "03d",
+      "description" : "scattered clouds",
+      "id" : 802
+    }
+  ],
+  "clouds" : {
+    "all" : 40
+  },
+  "dt" : 1511332200,
+  "base" : "stations",
+  "sys" : {
+    "sunset" : 1511343650,
+    "sunrise" : 1511304318,
+    "message" : 0.008800000000000001,
+    "id" : 7414,
+    "type" : 1,
+    "country" : "CN"
+  },
+  "cod" : 200,
+  "visibility" : 10000,
+  "wind" : {
+    "deg" : 20,
+    "speed" : 5
+  }
+}

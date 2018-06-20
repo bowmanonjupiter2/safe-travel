@@ -1,0 +1,1756 @@
+ [
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997702af0",
+  "_rev":"1-72a1a99d2bf3b48e2554dc91af4c1d90",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Burglary",
+  "compnos":"79e4238dabdb9c43b057423cfea1bc38f5f897f6d3e22e3cd48052b3ebfb6a24",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997704e06",
+  "_rev":"1-df64def7613238a5ef337ab9657f70ce",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Criminal damage and arson",
+  "compnos":"c88b7396d1b5c1f212c1566967549c5abbca05a5e6ceb11e4a61b24edf7b51be",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299771a0ed",
+  "_rev":"1-85004366c1490ed73ca9eace4bb8a057",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367611,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Other theft",
+  "compnos":"53c351200852c516da14c2459f5d2d4ee54b05b4b65df538cc496b9b49cd8f27",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea29977646b0",
+  "_rev":"1-e960bc958847e26f13cb8a7ad613c192",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"ac23aa1b649407fea33e18b563e889c05b6454dc92419542218313cacd2be048",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997765400",
+  "_rev":"1-43ff67cc0158edd14045273bde698f99",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"1a065f12408fc907753a67e1b50ceeb3aceb4233fcb44bdae3ef5203a298e7a6",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299777445a",
+  "_rev":"1-0ff97786fe77c1d84ee98b351e1e4590",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"f333c9a9dc6303a4b9586f99d6e50c2c70358d22cee24a650f1ba82473e7bd0c",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299777f3fd",
+  "_rev":"1-5594c9c5cfcb759963daf44b0d41c7cc",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367613,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"7af5e49ca7a76c6bdd2cb0ffac1dc9e8d4efac8fe8124b11c8e4996d4b934926",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299778055b",
+  "_rev":"1-27f12522bdddffa8e25e13fd95c51c71",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367613,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"f355f1bd190d49b5e0061e50d0f1d97881a4cf0fec0275704aaed84d7a372270",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299778dadd",
+  "_rev":"1-bd6f5d0e2ce10a55890b19002bb96d08",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367620,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"1528378cdbdcd4a076a851f885736bc9225fb43fe2f4907d9bcfbd117738cdf1",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997798beb",
+  "_rev":"1-62f4d08a39b4f92f379db1b4a8889f0f",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367624,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"c88b7396d1b5c1f212c1566967549c5abbca05a5e6ceb11e4a61b24edf7b51be",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299779a571",
+  "_rev":"1-f12cc76c29c18c9ca45e988d2434c7a6",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367624,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"9e1e59eaa175dddc7c4c49ffefb694183e015615b5853c00e42d4d901bfb9318",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cb27e2",
+  "_rev":"1-2bf8fecd8fe65d6b62c620e875c681d7",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366634,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cb7235",
+  "_rev":"1-2bf8fecd8fe65d6b62c620e875c681d7",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366634,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cb8963",
+  "_rev":"1-2bf8fecd8fe65d6b62c620e875c681d7",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366634,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cbc527",
+  "_rev":"1-4cad2dcbcd43a17f283b3d3fe1185a3b",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366646,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cd1d01",
+  "_rev":"1-7b6ccb19b9e0bdf731eb9852ad1f3c29",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cda0ff",
+  "_rev":"1-7b6ccb19b9e0bdf731eb9852ad1f3c29",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235ce0397",
+  "_rev":"1-7b6ccb19b9e0bdf731eb9852ad1f3c29",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235ce1730",
+  "_rev":"1-7b6ccb19b9e0bdf731eb9852ad1f3c29",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235ce5722",
+  "_rev":"1-7b6ccb19b9e0bdf731eb9852ad1f3c29",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cedc27",
+  "_rev":"1-7b6ccb19b9e0bdf731eb9852ad1f3c29",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cf1310",
+  "_rev":"1-7b6ccb19b9e0bdf731eb9852ad1f3c29",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cf43b9",
+  "_rev":"1-7b6ccb19b9e0bdf731eb9852ad1f3c29",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.126479,
+                 51.508592
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cf4fe6",
+  "_rev":"1-7b6ccb19b9e0bdf731eb9852ad1f3c29",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Duncannon Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea29977055a1",
+  "_rev":"1-424e58fa473694ea73549fc208e2dc20",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Criminal damage and arson",
+  "compnos":"fff238a007cad33195d059603990d40ebd15f2bab3fc675359b635fefb5504c5",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997708bfc",
+  "_rev":"1-9000176c8ee133617d75eab20a242712",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Criminal damage and arson",
+  "compnos":"0574db013eaf7a1301667464dd19413684721fb10e75d140fb0b229143f73cbb",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997718c74",
+  "_rev":"1-8de287ba0eed3c998476f3cf7d092f1e",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367611,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Other theft",
+  "compnos":"841802c710fc0c090a0d9ca98e0c3359c093825a1fb1d92d04f7e902721cf3d8",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299772330c",
+  "_rev":"1-2a4b2f283803023f4befa11bc9257095",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367611,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Other theft",
+  "compnos":"6bf07ac95a3759c0b55b086d46d0d4b843f366d119ca695534254b8f5da8f861",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299772eba7",
+  "_rev":"1-4b49009b72b144de4bbb47aa47e277b8",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367611,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Other theft",
+  "compnos":"561affbafe9f69c6131e930e0cd2e87eaeddc7515a9e041483ab8f09d9f6cb8e",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299775a7ef",
+  "_rev":"1-3d782cdd26124dd96941f9b7093ffdf5",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Robbery",
+  "compnos":"4e918dcb34a0c276ae9864eb9dff345c0a08e2fe600e549b89f57c3ccffc7ae4",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299775a86d",
+  "_rev":"1-976fde09dcf44f3f9db2941176591380",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Robbery",
+  "compnos":"4a0f2e81b6edaacca8e8cc879fee6827f3bf651004e6160d01d83edaae0236d9",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299776fa83",
+  "_rev":"1-a7ae082724b3b3240a9ba50284c44dcf",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"8eb18eb353a994f82c3a0d7adf64b0d361767cd86a518c649f8486652d20a01d",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997782e48",
+  "_rev":"1-404eda5a922c6989d8cecd7887d30df9",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367613,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"f390e3dda1a85333bbd99eb6621e627a0eb432c9c3584a11148ff9b30e6b845f",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea29977834b4",
+  "_rev":"1-4f20f9a81d8a35d9f82b8e3fe944fdae",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367613,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"7d29dbef50099760790bebdce1e8f60e34b287e9f35dc5c7c754de621193fc85",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997788199",
+  "_rev":"1-7aab052aa01ba83e589cdc5fc3d4f9a9",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367613,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"cbb09a132df812b6480cdf5d5b90264d9368fb9a8e44235382dd252c1f4d6334",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997789aa3",
+  "_rev":"1-7e836de41999e5123656222a3da770ef",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367613,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"09503e5f52efff2a80d3c6f37df73f0765d448062a467c850185c18115ffe19d",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299778a1d4",
+  "_rev":"1-2b4413215599225a9776628df222df51",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367620,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"5f974576f2c1826a0a37d6058ff43aaa2e1a304f80da29ef708e5745146349bd",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea29977927eb",
+  "_rev":"1-a853964683d2f0f6ca8f5b4172da630c",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367624,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"486943fdf1ee4272c7c28c801ec33f313fe35d7270fe3cc9ef54bdef96db26e2",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299779e957",
+  "_rev":"1-25193dc49618e3e0c2935a45fdc4a1b6",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367624,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"9b0a328f9e9693af4cd00c539af0a230433406671cf3184274af34d65c9f0551",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299779f3f4",
+  "_rev":"1-23f0f92f2481c0afe027bdc944f051e6",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367624,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"dc01a40e5266da0f8c9410b8c77e3693bc2bc5f6c090068f750010baeedc7998",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cb8519",
+  "_rev":"1-8d70904e89ea24c148d8ef4f09729a84",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366634,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cb9303",
+  "_rev":"1-8d70904e89ea24c148d8ef4f09729a84",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366634,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cbac4c",
+  "_rev":"1-80ad9eb1aa30a99ab1f3e197b204d066",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366646,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cbbcee",
+  "_rev":"1-80ad9eb1aa30a99ab1f3e197b204d066",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366646,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cc7a45",
+  "_rev":"1-80ad9eb1aa30a99ab1f3e197b204d066",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366646,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cd0bd6",
+  "_rev":"1-3948b5f31b9933961675fc70fd0d5bfb",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cd2d5a",
+  "_rev":"1-3948b5f31b9933961675fc70fd0d5bfb",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235ce7651",
+  "_rev":"1-3948b5f31b9933961675fc70fd0d5bfb",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cea2c8",
+  "_rev":"1-3948b5f31b9933961675fc70fd0d5bfb",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cec55c",
+  "_rev":"1-3948b5f31b9933961675fc70fd0d5bfb",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235ced190",
+  "_rev":"1-3948b5f31b9933961675fc70fd0d5bfb",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cedb3a",
+  "_rev":"1-3948b5f31b9933961675fc70fd0d5bfb",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125931,
+                 51.509312
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cf2c40",
+  "_rev":"1-3948b5f31b9933961675fc70fd0d5bfb",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Adelaide Street",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125723,
+                 51.507717
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"ec8590260b776ff4c602f6294b0b29f0",
+  "_rev":"1-022be74461eed1e669698e25c0ba1c47",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523368593,
+  "location":"On or near Corner House Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Criminal damage and arson",
+  "compnos":"1bbf55d9044f60041c4eaa1f55821fb0064b4d5d10863aa8aea495cd046fca05",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.125723,
+                 51.507717
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"ec8590260b776ff4c602f6294b102d17",
+  "_rev":"1-0c6986eb9f135e6e6d105cc7827f36fe",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523368609,
+  "location":"On or near Corner House Street",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"7e288e9a922d54afd78fd6f0bbc9a93000648eb9282f1f4abc0ffb17cbe39d89",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997703b46",
+  "_rev":"1-f4f869179e29c4f284cf8138fac6c87d",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Criminal damage and arson",
+  "compnos":"4e6401613e478f4dd5b47114a902add1566a448f5fca2563b9c4e4a725e51c47",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299770aba2",
+  "_rev":"1-9ce6363105e3f58abb899685e6047f83",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Criminal damage and arson",
+  "compnos":"526495a6e66e30bac5f12f1623e9995be07bce91e745773a535010553e9a9674",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299771ed40",
+  "_rev":"1-48dc36958c5b4a73bbd13a53e6be8f92",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367611,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Other theft",
+  "compnos":"8a760d0114f7bdc22cbd5232ed02eae8ea17bb7b382a3ac93ed43ec9bdff4ba0",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299772125e",
+  "_rev":"1-0d5e9e8d74b010ef6702643c7c3981a6",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367611,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Other theft",
+  "compnos":"59ff697393368309edda99b45cb2a0ec4f6c38a8e11a0c45446817d483df1490",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997730810",
+  "_rev":"1-377d6b348541b478873af4afa2f483b2",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367611,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Other theft",
+  "compnos":"71b2ab25145e742d4645b1e37f33aabe0b9787fbf54fc882182c396f62ad6661",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997737daf",
+  "_rev":"1-91d318d972ec250e43f57b3f6c8a2625",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367611,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Other theft",
+  "compnos":"a561d15cc9db82b0eda451f4bdab99662f83a7ab18d79406c8d49fd88a2f89bd",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299773ae00",
+  "_rev":"1-3c199ec8f61de45dde4f9a3e37c3ff57",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367611,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Other theft",
+  "compnos":"82c8c63d1bb8cf4569d43ad7e6db99eb437ffd0290c9dc9ee4dd46a00aa9b983",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299773cf7e",
+  "_rev":"1-09578adf43ede5cba9ea6abcfa7231fd",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Other theft",
+  "compnos":"1f4022311a01b17c7aa52a275cc183435200bedf7a76207b59aa146e177a3819",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299775653c",
+  "_rev":"1-d3df47e4636cc77fb325702a8ba83c5b",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Robbery",
+  "compnos":"5d81e9cd7c7eb4c7a6ac3e467e2798f0c062eeee291dcd8473367e79fc37f3b6",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea29977623fe",
+  "_rev":"1-6cc960769baddb52643e9ec59dabe0bd",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"26baff16a7ff4d52dc17ed7f29aa041345bf6313f0fad8b3b5e519bad1a67030",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299776719e",
+  "_rev":"1-0abd9636e3029a7ab5a7cef9add8536b",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"74eeead3ad7b9f311c26f258698d621331623721eb9ad0250f006bca045fcd91",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299776e36e",
+  "_rev":"1-f0e6ed3d002675e926019838a6e54dca",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"c4d54d9e60d6390f3a4e8cc06e6367918db855cd0a039dd4978194ff906ce19c",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997770cdc",
+  "_rev":"1-7fe7bde74724e30800c6ea7891186e52",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"ddbc32287a8b957c9e8c54e4b1dd29a35b1accfd1660fe8999ec0536a47aeeaf",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997770db8",
+  "_rev":"1-ed130c3a41bcaaff0485e04a364ef19a",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"12598f32cf3cf6720d90f85c6cc31f7540f74895064037c26ddc3d191e584ab4",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997771545",
+  "_rev":"1-81fa4f6d18f1e6cd5fe0acf151e3629e",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"0162621daced62edf81df375885e665d145c1d32da546972c74b4f5bf1584ca5",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997773773",
+  "_rev":"1-fd30cb894509ebc75d801dc28e92d162",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"15fde24c9505d37c1df04d319c1056bcd6bf45c248d4693472b575f222085e3b",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997777157",
+  "_rev":"1-7e6e6676bfc3e81ea741535e81dedca1",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"b6c2b2878776236271fd907e7112e4b0f0b0837bfe2f777ab67e4f60ff95b78a",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997777e14",
+  "_rev":"1-ae5fecfb9ef46c9e78254fd0060f827c",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367612,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Theft from the person",
+  "compnos":"56ed01287c6024c18f656a2d16e00006976f64f5d425941e43643dae7a9ab8c4",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299777dc75",
+  "_rev":"1-6f2b291b8e1d1ea3a76c0d8e1992bba0",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367613,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"8abbf607ce78145d56503460f2ae8b5c6451f35cc260be622790514789de9a5b",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299777edaf",
+  "_rev":"1-6abad68ef61ad27d8c3d65c8e8f920c1",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367613,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"b9f53da986f8742f08baa525877ecbf7075363f4078aea6f2b9df2a183be1cb5",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea29977905ac",
+  "_rev":"1-0221fd7cb36ca8b01f6b6308a2e14d8e",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367624,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"7f1181427430f03d0e80a4903d8cf87ea983743ccd322388024db2ea24dd8a16",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997791f9e",
+  "_rev":"1-20b4cdaeb9cd662cd6948ee46263192c",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367624,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"03d2c71155136b730f4753ae7a2668cc1a664d0e8620b96c61f407ec5f2d6a59",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea2997795a64",
+  "_rev":"1-4a08e08922175caeaa163d74757c95df",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367624,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"4e5443afc653ed3be4c571f63a9d928451efdef6d8e5d61ef9a381316fe6fa11",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea299779de0d",
+  "_rev":"1-890526f3755a370ae0a49073bb3c55ef",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367624,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"621f3ae9522b4cddaee4a615442f05c13e98bfb2b2b13b2589294ff4c30140fb",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"4536b83051e4531f1bcaea29977a0aa2",
+  "_rev":"1-94a6e9821c6a8ee5f1ac2110ca8448ce",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523367624,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "type":"Violence and sexual offences",
+  "compnos":"dfadb68fba37b662ea26cf746a6fc1246664ee9bc42238426519e62fbe4279e2",
+  "timestamp":1472702400000
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cb6713",
+  "_rev":"1-aa6748a1ead7206bd4e2ccaaa10cf889",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366634,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cbeb88",
+  "_rev":"1-304ae9519940551ff71e00e8e65e669a",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366646,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cbf7b6",
+  "_rev":"1-304ae9519940551ff71e00e8e65e669a",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366646,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cc86e5",
+  "_rev":"1-304ae9519940551ff71e00e8e65e669a",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366646,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  },
+  {
+  "geometry":{
+  "type":"Point",
+  "coordinates":[
+                 -0.124419,
+                 51.508577
+                 ]
+  },
+  "Reported by":"Metropolitan Police Service",
+  "_id":"fd60f4b87191ab9dbb58b89235cd6295",
+  "_rev":"1-39ade6d66cfa2f48526ad88e406230a4",
+  "type":"Feature",
+  "properties":{
+  "updated":1477523366647,
+  "location":"On or near Nightclub",
+  "source":"UK-Metropolitan Police Service",
+  "timestamp":1472702400000,
+  "type":"Anti-social behaviour"
+  }
+  }
+  ]

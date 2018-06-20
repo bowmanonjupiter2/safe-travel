@@ -1,0 +1,469 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A3146E131FCDE097007EC8D5 /* crime_data.json in Resources */ = {isa = PBXBuildFile; fileRef = A3146E121FCDE097007EC8D5 /* crime_data.json */; };
+		A320A9EA1FCFDEAF00F2F491 /* CrimeNewsCrawler.swift in Sources */ = {isa = PBXBuildFile; fileRef = A320A9E91FCFDEAF00F2F491 /* CrimeNewsCrawler.swift */; };
+		A320A9EC1FCFDF2C00F2F491 /* trusted_news_sites.plist in Resources */ = {isa = PBXBuildFile; fileRef = A320A9EB1FCFDF2C00F2F491 /* trusted_news_sites.plist */; };
+		A333BFE71FCD65880036B356 /* Crime.swift in Sources */ = {isa = PBXBuildFile; fileRef = A333BFE61FCD65880036B356 /* Crime.swift */; };
+		A34327C31FC3C6C500CFB7C2 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A34327C21FC3C6C500CFB7C2 /* Alamofire.framework */; };
+		A34327C51FC3C6EB00CFB7C2 /* Alamofire.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = A34327C21FC3C6C500CFB7C2 /* Alamofire.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		A3A50BD81FBBEA740084DF30 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A50BD71FBBEA740084DF30 /* AppDelegate.swift */; };
+		A3A50BDA1FBBEA740084DF30 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A50BD91FBBEA740084DF30 /* ViewController.swift */; };
+		A3A50BDD1FBBEA740084DF30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3A50BDB1FBBEA740084DF30 /* Main.storyboard */; };
+		A3A50BE01FBBEA740084DF30 /* SafeTravel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A3A50BDE1FBBEA740084DF30 /* SafeTravel.xcdatamodeld */; };
+		A3A50BE21FBBEA740084DF30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3A50BE11FBBEA740084DF30 /* Assets.xcassets */; };
+		A3A50BE51FBBEA740084DF30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3A50BE31FBBEA740084DF30 /* LaunchScreen.storyboard */; };
+		A3A50BEE1FBC39C30084DF30 /* city.list.json in Resources */ = {isa = PBXBuildFile; fileRef = A3A50BED1FBC39C30084DF30 /* city.list.json */; };
+		A3A50BF01FC2B1DE0084DF30 /* CityListRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A50BEF1FC2B1DE0084DF30 /* CityListRepository.swift */; };
+		A3A50BF21FC2B6510084DF30 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3A50BF11FC2B6510084DF30 /* City.swift */; };
+		A3BEC6AF1FC3DBDE00EE36BC /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3BEC6AE1FC3DBDE00EE36BC /* SwiftyJSON.framework */; };
+		A3BEC6B01FC3DBE600EE36BC /* SwiftyJSON.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = A3BEC6AE1FC3DBDE00EE36BC /* SwiftyJSON.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		A3BEC6B41FC40ECD00EE36BC /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BEC6B31FC40ECD00EE36BC /* Weather.swift */; };
+		A3BEC6B61FC4229300EE36BC /* LocationSecurity.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BEC6B51FC4229300EE36BC /* LocationSecurity.swift */; };
+		A3BEC6B81FC434DB00EE36BC /* weathericons-regular-webfont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A3BEC6B71FC434BD00EE36BC /* weathericons-regular-webfont.ttf */; };
+		A3BEC6BA1FC435E600EE36BC /* WeatherIconFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BEC6B91FC435E600EE36BC /* WeatherIconFont.swift */; };
+		A3BEC6BC1FC55AB700EE36BC /* Kakapo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3BEC6BB1FC55AB600EE36BC /* Kakapo.framework */; };
+		A3BEC6BD1FC55AC900EE36BC /* Kakapo.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = A3BEC6BB1FC55AB600EE36BC /* Kakapo.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		A3BEC6C01FC5615E00EE36BC /* current_weather.json in Resources */ = {isa = PBXBuildFile; fileRef = A3BEC6BF1FC5615E00EE36BC /* current_weather.json */; };
+		A3BEC6C21FC56F8C00EE36BC /* forecast_weather.json in Resources */ = {isa = PBXBuildFile; fileRef = A3BEC6C11FC56F8C00EE36BC /* forecast_weather.json */; };
+		A3BEC6C41FC7E98C00EE36BC /* current_uv_index.json in Resources */ = {isa = PBXBuildFile; fileRef = A3BEC6C31FC7E98C00EE36BC /* current_uv_index.json */; };
+		A3BEC6C61FC880CF00EE36BC /* forecast_uv_index.json in Resources */ = {isa = PBXBuildFile; fileRef = A3BEC6C51FC880CE00EE36BC /* forecast_uv_index.json */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A34327C41FC3C6D800CFB7C2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 12;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				A3BEC6BD1FC55AC900EE36BC /* Kakapo.framework in CopyFiles */,
+				A3BEC6B01FC3DBE600EE36BC /* SwiftyJSON.framework in CopyFiles */,
+				A34327C51FC3C6EB00CFB7C2 /* Alamofire.framework in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		A3146E121FCDE097007EC8D5 /* crime_data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = crime_data.json; sourceTree = "<group>"; };
+		A320A9E91FCFDEAF00F2F491 /* CrimeNewsCrawler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrimeNewsCrawler.swift; sourceTree = "<group>"; };
+		A320A9EB1FCFDF2C00F2F491 /* trusted_news_sites.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = trusted_news_sites.plist; sourceTree = "<group>"; };
+		A333BFE61FCD65880036B356 /* Crime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Crime.swift; sourceTree = "<group>"; };
+		A34327C21FC3C6C500CFB7C2 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
+		A3A50BD41FBBEA740084DF30 /* SafeTravel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SafeTravel.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3A50BD71FBBEA740084DF30 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A3A50BD91FBBEA740084DF30 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A3A50BDC1FBBEA740084DF30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A3A50BDF1FBBEA740084DF30 /* SafeTravel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SafeTravel.xcdatamodel; sourceTree = "<group>"; };
+		A3A50BE11FBBEA740084DF30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A3A50BE41FBBEA740084DF30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A3A50BE61FBBEA740084DF30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3A50BED1FBC39C30084DF30 /* city.list.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = city.list.json; sourceTree = "<group>"; };
+		A3A50BEF1FC2B1DE0084DF30 /* CityListRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityListRepository.swift; sourceTree = "<group>"; };
+		A3A50BF11FC2B6510084DF30 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
+		A3BEC6AE1FC3DBDE00EE36BC /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = Carthage/Build/iOS/SwiftyJSON.framework; sourceTree = "<group>"; };
+		A3BEC6B31FC40ECD00EE36BC /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
+		A3BEC6B51FC4229300EE36BC /* LocationSecurity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSecurity.swift; sourceTree = "<group>"; };
+		A3BEC6B71FC434BD00EE36BC /* weathericons-regular-webfont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "weathericons-regular-webfont.ttf"; sourceTree = "<group>"; };
+		A3BEC6B91FC435E600EE36BC /* WeatherIconFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherIconFont.swift; sourceTree = "<group>"; };
+		A3BEC6BB1FC55AB600EE36BC /* Kakapo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Kakapo.framework; path = Carthage/Build/iOS/Kakapo.framework; sourceTree = "<group>"; };
+		A3BEC6BF1FC5615E00EE36BC /* current_weather.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = current_weather.json; sourceTree = "<group>"; };
+		A3BEC6C11FC56F8C00EE36BC /* forecast_weather.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = forecast_weather.json; sourceTree = "<group>"; };
+		A3BEC6C31FC7E98C00EE36BC /* current_uv_index.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = current_uv_index.json; sourceTree = "<group>"; };
+		A3BEC6C51FC880CE00EE36BC /* forecast_uv_index.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = forecast_uv_index.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A3A50BD11FBBEA740084DF30 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3BEC6BC1FC55AB700EE36BC /* Kakapo.framework in Frameworks */,
+				A34327C31FC3C6C500CFB7C2 /* Alamofire.framework in Frameworks */,
+				A3BEC6AF1FC3DBDE00EE36BC /* SwiftyJSON.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A34327C11FC3C6C400CFB7C2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A3BEC6BB1FC55AB600EE36BC /* Kakapo.framework */,
+				A3BEC6AE1FC3DBDE00EE36BC /* SwiftyJSON.framework */,
+				A34327C21FC3C6C500CFB7C2 /* Alamofire.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A3A50BCB1FBBEA740084DF30 = {
+			isa = PBXGroup;
+			children = (
+				A3A50BD61FBBEA740084DF30 /* SafeTravel */,
+				A3A50BD51FBBEA740084DF30 /* Products */,
+				A34327C11FC3C6C400CFB7C2 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		A3A50BD51FBBEA740084DF30 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A3A50BD41FBBEA740084DF30 /* SafeTravel.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A3A50BD61FBBEA740084DF30 /* SafeTravel */ = {
+			isa = PBXGroup;
+			children = (
+				A3BEC6BE1FC55D3C00EE36BC /* mock */,
+				A3A50BEC1FBC396B0084DF30 /* Resources */,
+				A3A50BD71FBBEA740084DF30 /* AppDelegate.swift */,
+				A3A50BD91FBBEA740084DF30 /* ViewController.swift */,
+				A3A50BDB1FBBEA740084DF30 /* Main.storyboard */,
+				A3A50BE11FBBEA740084DF30 /* Assets.xcassets */,
+				A3A50BE31FBBEA740084DF30 /* LaunchScreen.storyboard */,
+				A3A50BE61FBBEA740084DF30 /* Info.plist */,
+				A3A50BDE1FBBEA740084DF30 /* SafeTravel.xcdatamodeld */,
+				A3A50BEF1FC2B1DE0084DF30 /* CityListRepository.swift */,
+				A3A50BF11FC2B6510084DF30 /* City.swift */,
+				A3BEC6B31FC40ECD00EE36BC /* Weather.swift */,
+				A3BEC6B51FC4229300EE36BC /* LocationSecurity.swift */,
+				A3BEC6B91FC435E600EE36BC /* WeatherIconFont.swift */,
+				A333BFE61FCD65880036B356 /* Crime.swift */,
+				A320A9E91FCFDEAF00F2F491 /* CrimeNewsCrawler.swift */,
+			);
+			path = SafeTravel;
+			sourceTree = "<group>";
+		};
+		A3A50BEC1FBC396B0084DF30 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A3BEC6B71FC434BD00EE36BC /* weathericons-regular-webfont.ttf */,
+				A3A50BED1FBC39C30084DF30 /* city.list.json */,
+				A320A9EB1FCFDF2C00F2F491 /* trusted_news_sites.plist */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		A3BEC6BE1FC55D3C00EE36BC /* mock */ = {
+			isa = PBXGroup;
+			children = (
+				A3146E121FCDE097007EC8D5 /* crime_data.json */,
+				A3BEC6C51FC880CE00EE36BC /* forecast_uv_index.json */,
+				A3BEC6C31FC7E98C00EE36BC /* current_uv_index.json */,
+				A3BEC6C11FC56F8C00EE36BC /* forecast_weather.json */,
+				A3BEC6BF1FC5615E00EE36BC /* current_weather.json */,
+			);
+			path = mock;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A3A50BD31FBBEA740084DF30 /* SafeTravel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A3A50BE91FBBEA740084DF30 /* Build configuration list for PBXNativeTarget "SafeTravel" */;
+			buildPhases = (
+				A3A50BD01FBBEA740084DF30 /* Sources */,
+				A3A50BD11FBBEA740084DF30 /* Frameworks */,
+				A3A50BD21FBBEA740084DF30 /* Resources */,
+				A34327C41FC3C6D800CFB7C2 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SafeTravel;
+			productName = SafeTravel;
+			productReference = A3A50BD41FBBEA740084DF30 /* SafeTravel.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A3A50BCC1FBBEA740084DF30 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0900;
+				LastUpgradeCheck = 0900;
+				ORGANIZATIONNAME = rainforce;
+				TargetAttributes = {
+					A3A50BD31FBBEA740084DF30 = {
+						CreatedOnToolsVersion = 9.0.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = A3A50BCF1FBBEA740084DF30 /* Build configuration list for PBXProject "SafeTravel" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A3A50BCB1FBBEA740084DF30;
+			productRefGroup = A3A50BD51FBBEA740084DF30 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A3A50BD31FBBEA740084DF30 /* SafeTravel */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A3A50BD21FBBEA740084DF30 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3BEC6C01FC5615E00EE36BC /* current_weather.json in Resources */,
+				A3BEC6C41FC7E98C00EE36BC /* current_uv_index.json in Resources */,
+				A3146E131FCDE097007EC8D5 /* crime_data.json in Resources */,
+				A3A50BE51FBBEA740084DF30 /* LaunchScreen.storyboard in Resources */,
+				A3A50BEE1FBC39C30084DF30 /* city.list.json in Resources */,
+				A3A50BE21FBBEA740084DF30 /* Assets.xcassets in Resources */,
+				A3BEC6C21FC56F8C00EE36BC /* forecast_weather.json in Resources */,
+				A3BEC6B81FC434DB00EE36BC /* weathericons-regular-webfont.ttf in Resources */,
+				A3BEC6C61FC880CF00EE36BC /* forecast_uv_index.json in Resources */,
+				A3A50BDD1FBBEA740084DF30 /* Main.storyboard in Resources */,
+				A320A9EC1FCFDF2C00F2F491 /* trusted_news_sites.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A3A50BD01FBBEA740084DF30 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A3BEC6BA1FC435E600EE36BC /* WeatherIconFont.swift in Sources */,
+				A3A50BF01FC2B1DE0084DF30 /* CityListRepository.swift in Sources */,
+				A3BEC6B61FC4229300EE36BC /* LocationSecurity.swift in Sources */,
+				A3A50BF21FC2B6510084DF30 /* City.swift in Sources */,
+				A333BFE71FCD65880036B356 /* Crime.swift in Sources */,
+				A3A50BE01FBBEA740084DF30 /* SafeTravel.xcdatamodeld in Sources */,
+				A320A9EA1FCFDEAF00F2F491 /* CrimeNewsCrawler.swift in Sources */,
+				A3A50BDA1FBBEA740084DF30 /* ViewController.swift in Sources */,
+				A3BEC6B41FC40ECD00EE36BC /* Weather.swift in Sources */,
+				A3A50BD81FBBEA740084DF30 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A3A50BDB1FBBEA740084DF30 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A3A50BDC1FBBEA740084DF30 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A3A50BE31FBBEA740084DF30 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A3A50BE41FBBEA740084DF30 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A3A50BE71FBBEA740084DF30 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A3A50BE81FBBEA740084DF30 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A3A50BEA1FBBEA740084DF30 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 92L8QX6FBA;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				INFOPLIST_FILE = SafeTravel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.test.rainforce.SafeTravel;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A3A50BEB1FBBEA740084DF30 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 92L8QX6FBA;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				INFOPLIST_FILE = SafeTravel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = org.test.rainforce.SafeTravel;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A3A50BCF1FBBEA740084DF30 /* Build configuration list for PBXProject "SafeTravel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A50BE71FBBEA740084DF30 /* Debug */,
+				A3A50BE81FBBEA740084DF30 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A3A50BE91FBBEA740084DF30 /* Build configuration list for PBXNativeTarget "SafeTravel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A3A50BEA1FBBEA740084DF30 /* Debug */,
+				A3A50BEB1FBBEA740084DF30 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		A3A50BDE1FBBEA740084DF30 /* SafeTravel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				A3A50BDF1FBBEA740084DF30 /* SafeTravel.xcdatamodel */,
+			);
+			currentVersion = A3A50BDF1FBBEA740084DF30 /* SafeTravel.xcdatamodel */;
+			path = SafeTravel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = A3A50BCC1FBBEA740084DF30 /* Project object */;
+}
